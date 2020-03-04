@@ -142,7 +142,9 @@ img.left {
   text-shadow: none;
   font-weight:bold;
 }
-
+.navbar .nav > li > a:focus {
+	color: #ddd !important;
+}
 header .topnav .dropdown-submenu > .dropdown-menu {
   top: 0;
   left: 100%;
