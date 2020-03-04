@@ -230,6 +230,7 @@ nav select.selectmenu, select.selectmenu  {
 	z-index:1000;
 	margin-top:0px;
 	padding:20px 0 0 0;
+	min-height: 500px;
 }
 
 #maincontent .page-header h3 {
