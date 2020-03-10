@@ -230,7 +230,7 @@ nav select.selectmenu, select.selectmenu  {
 	z-index:1000;
 	margin-top:0px;
 	padding:20px 0 0 0;
-	min-height: 500px;
+	min-height: 100vh;
 }
 
 #maincontent .page-header h3 {
@@ -246,7 +246,6 @@ section#intro{
 	margin-top:80px;
 	padding: 0;
 	border-bottom:1px solid #e9e9e9;
-	padding-top:60px;
 	margin-bottom:40px;
 }
 
@@ -330,6 +329,10 @@ section#subintro {
 
 
 /* cta box */
+.cta.h1 {
+	text-align: center;
+}
+
 .cta-box {
 	background:#eee;
 	overflow:hidden;
